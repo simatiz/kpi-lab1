@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8aaf1fa1-8bb5-4f95-9c1f-350d2a1f7733" name="Changes" comment="fix">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/on-pr.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/on-pr.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/lab1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vercel.json" beforeDir="false" />
-    </list>
+    <list default="true" id="8aaf1fa1-8bb5-4f95-9c1f-350d2a1f7733" name="Changes" comment="fix" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +84,7 @@
       <workItem from="1703525200109" duration="661000" />
       <workItem from="1703527457747" duration="92000" />
       <workItem from="1703533843267" duration="474000" />
-      <workItem from="1704656414177" duration="2279000" />
+      <workItem from="1704656414177" duration="2594000" />
     </task>
     <task id="LOCAL-00001" summary="add lint and format">
       <option name="closed" value="true" />
@@ -188,7 +182,39 @@
       <option name="project" value="LOCAL" />
       <updated>1704658571505</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="fix">
+      <option name="closed" value="true" />
+      <created>1704658961506</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1704658961506</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix">
+      <option name="closed" value="true" />
+      <created>1704658980560</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1704658980560</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fix">
+      <option name="closed" value="true" />
+      <created>1704659199960</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1704659199960</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fix">
+      <option name="closed" value="true" />
+      <created>1704659235461</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1704659235461</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
